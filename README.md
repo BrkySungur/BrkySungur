@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm **Berkay Sungur**
+# Berkay Sungur
 
 I am a passionate **Ph.D. student in Chemistry** at Boğaziçi University, where I delve into the intricate world of electrochemical research. My journey in science is deeply tied to advancing **sustainable energy** solutions, as evidenced by my focus on sodium and lithium-ion batteries. Complementing my traditional chemistry background, I co-founded **ThinkerAI** out of a commitment to address ethical challenges in academia, encountered during my Master's research. This project fuels my ambition to enhance scientific integrity and efficiency across disciplines.
 
